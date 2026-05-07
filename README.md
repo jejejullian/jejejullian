@@ -29,25 +29,6 @@ I'm a **Front-end Developer Enthusiast** based in Indonesia. I design and build 
 - **[Battleship](https://github.com/jejejullian/Battleship-OP)** — Classic strategy game built with Vanilla JavaScript & TDD.
 - **[LuxSpace PWA](https://github.com/jejejullian/luxspace_pwa)** — Modern e-commerce experience optimized as a Progressive Web App.
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jejejullian&show_icons=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jejejullian&layout=compact&theme=transparent&title_color=000000&text_color=555555&bg_color=ffffff&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/juliannurfadzlin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliannurfadzlin" height="30" width="40" /></a>
-<a href="https://instagram.com/jfdzln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jfdzln" height="30" width="40" /></a>
-<a href="mailto:juliannnfadzlin@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="email" height="30" width="30" /></a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
